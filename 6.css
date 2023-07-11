@@ -1,0 +1,30 @@
+
+.first{
+    height: 252px;
+    width: 462px;
+    background-color: white;
+    margin-top: 111px;
+    margin-left: 68px;
+}
+.table{
+    height: 200px;
+    width: 450px;
+    background-color: rgb(180, 184, 188);
+}
+.second{
+    height: 500px;
+    width: 400px;
+    margin-left: 105px;
+    margin-top: 113px;
+    background-color: white;
+}
+.all{
+    display: flex;
+    flex-direction: row;
+}
+.tab{
+    height: 350px;
+    width: 415px;
+    background-color: rgb(180, 184, 188);
+    margin-top: -24px;
+}

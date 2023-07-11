@@ -1,0 +1,35 @@
+.first{
+    height: 300px;
+    width: 180px;
+    background-color: aquamarine;
+    margin-left: 20px;
+    margin-top: 40px;
+    display: flex;
+}
+ul{
+    margin: 1px;
+    padding: 1px;
+    width: 300px;
+    background-color: #f1f1f1;
+}
+  li a {
+    display: block;
+    color: #000;
+    padding: 10px 10px;
+    text-decoration: overline;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: #555;
+    color: white;
+  }
+  .sec{
+    height: 70px;
+    width: 585px;
+    background-color: rgb(241, 238, 240);
+    margin-left: 400px;
+    margin-top: -341px;
+    display: flex;
+    flex-direction: row-reverse;
+  }

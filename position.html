@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Position</h1>
+
+
+
+<div class="parent">
+    <div class="div bg-yellow">
+        <a class="a">1</a>
+    </div>
+    <div class="div bg-green target">
+        <a class="a">2</a>
+    </div>
+</div>
+
+
+
+<style>
+    .target{
+        position: absolute;
+    }
+</style>
+
+
+    <style>
+        .parent{
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+        .div{
+            text-align: center;
+            width: 200px;
+            height: 200px;
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .bg-green{
+            background-color: green;
+        }
+        .bg-yellow{
+            background-color: yellow;
+        }
+        .a{
+            color: black;
+            text-decoration: none;
+        }
+
+    </style>
+
+
+</body>
+</html>

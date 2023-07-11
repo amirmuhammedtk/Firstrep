@@ -1,0 +1,77 @@
+.img{
+    height: 200px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 23px;
+    margin-top: 23px;
+    border-color: black;
+    border-style: double;
+
+}
+.a{
+    height: 250px;
+    width: 300px;
+    border-radius: 20px;
+    background-color: bisque;
+    border: 10px;
+    border-color: brown;
+    box-shadow: 5px 5px 5px 5px;
+}
+.b{
+    height: 250px;
+    width: 300px;
+    border-radius: 20px;
+    background-color: bisque;
+    margin-left: 310px;
+    margin-top: -250px;
+    box-shadow: 5px 5px 5px 5px;
+
+
+}
+.c{
+    height: 250px;
+    width: 300px;
+    border-radius: 20px;
+    background-color: bisque;
+    margin-left: 620px;
+    margin-top: -250px;
+    box-shadow: 5px 5px 5px 5px;
+
+}
+.d{
+    height: 250px;
+    width: 300px;
+    border-radius: 20px;
+    background-color: bisque;
+    margin-left: 930px;
+    margin-top: -250px;
+    box-shadow: 5px 5px 5px 5px;
+
+}
+.e{
+    height: 250px;
+    width: 300px;
+    border-radius: 20px;
+    background-image: url(https://wallpapercave.com/dwp2x/wp5029701.jpg);
+    margin-left: 450px;
+    margin-top: 70px;
+    box-shadow: 5px 5px 5px 5px;
+
+}
+.f{
+    text-align: center;
+    color: black;
+    background-color: #808080a6;
+    box-shadow: 5px 5px 5px 5px;
+    margin-top: -97px;
+
+}
+.g{
+    height: 250px;
+    width: 300px;
+    border-radius: 20px;
+    background-color: bisque;
+    margin-left: 930px;
+    margin-top: -500pxpx;
+    box-shadow: 5px 5px 5px 5px;
+}
